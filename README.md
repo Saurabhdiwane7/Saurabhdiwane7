@@ -6,7 +6,7 @@ My name is Saurabh and I am a Data Scientist with a background in Engineering. I
 
 I am passionate about sharing my knowledge and helping others learn. That's why I create DS/ML projects on Kaggle & Github to explain the complexities of data in a simple and approachable way. I hope that my work is helpful to beginners in the field and that it inspires them to keep learning and growing.
 
-- 🔭 I’m currently working on [Credit-Card-Fraud-Analysis](https://github.com/Saurabhdiwane7/Credit-Card-Fraud-Prediction-Analysis)
+- 🔭 I’m currently working on [Healthcare Analytics](https://github.com/Saurabhdiwane7/Healthcare-Analytics)
 
 - 🌱 I’m currently learning **Python ,MySQL ,Data Science ,AI Tools ,Machine Learning , Power BI, Data Visualization tools **
 
