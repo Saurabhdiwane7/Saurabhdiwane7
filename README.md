@@ -12,6 +12,9 @@ I am passionate about sharing my knowledge and helping others learn. That's why 
 
 - 📫 How to reach me **saurabhdiwane7@gmail.com**
 
+
+![hello](https://64.media.tumblr.com/c425cdd708f6be2f8aa5d3ebf595e3a6/tumblr_pqza48NMV11ucmv4c_400.gifv)
+
 ### Connect with me
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://medium.com/@saurabhdiwane7)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/saurabh-diwane-932bb4189/)
